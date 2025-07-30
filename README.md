@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate on:<br>Projects involving web design and development, especially in creating user-friendly and visually appealing sites. I'm open to collaborating with designers, developers, and content creators who can elevate the user experience.<br><br>I’m currently learning:<br>Web design, SEO best practices, and potentially more about Software development. I'm also delving into master's studies in computer science and continuously building your technical expertise.<br><br>Fun fact:<br>Despite my busy schedule, I make time to help my dad at the shop and maintain a strong focus on self-improvement, from academics to nutrition—a great balance of dedication and versatility!
+I’m looking to collaborate on:<br>Projects involving web design and development, especially in creating user-friendly and visually appealing sites. I'm open to collaborating with designers, developers, and content creators who can elevate the user experience.<br><br>I’m currently learning:<br>Web design, SEO best practices, and potentially more about Software development. I'm also delving into master's studies in computer science and continuously building your technical expertise.<br><br>
 
 
 # 💻 Tech Stack:
